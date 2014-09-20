@@ -105,7 +105,7 @@ Specified below are the variables arrived at (and represented in the final data 
 *anglezgravitymean          
 
 
-##Notes:
+###Notes:
 
 '-xyz' is used to denote 3-axial signals in the X, Y and Z directions.
 
